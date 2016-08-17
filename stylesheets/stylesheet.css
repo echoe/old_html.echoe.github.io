@@ -329,26 +329,28 @@ Full-Width Styles
 {
   margin: 2px;
   padding: 2px 8px 2px 8px;
-  font-size: 36px;
+  font-size: 24px;
+  font-weight: 700;
   list-style-type: none;
   vertical-align: middle;
   text-align: middle;
   float: middle;
   color: #FFFFFF;
-  background-color: #000000;
+  background-color: #222222;
 }
 
 .MyMenuItem:hover
 {
   margin: 2px;
   padding: 2px 8px 2px 8px;
-  font-size: 36px;
+  font-size: 24px;
+  font-weight: 700;
   list-style-type: none;
   vertical-align: middle;
   text-align: middle;
   float: middle;
-  color: #FFFFFF;
-  background-color: #5a4fcf;
+  color: #5a4fcf;
+  background-color: #222222;
 }
 
 .zip_download_link {

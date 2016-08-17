@@ -327,8 +327,7 @@ Full-Width Styles
 
 .MyMenuItem
 {
-  margin: 2px;
-  padding: 2px 8px 2px 8px;
+  margin: 10px 0;
   font-size: 24px;
   font-weight: 700;
   list-style-type: none;
@@ -341,8 +340,7 @@ Full-Width Styles
 
 .MyMenuItem:hover
 {
-  margin: 2px;
-  padding: 2px 8px 2px 8px;
+  margin: 10px 0;
   font-size: 24px;
   font-weight: 700;
   list-style-type: none;

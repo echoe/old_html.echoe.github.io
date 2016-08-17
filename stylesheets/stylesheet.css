@@ -325,6 +325,30 @@ Full-Width Styles
   background: url('../images/icon_download.png') no-repeat 0% 90%;
 }
 
+.MyMenuItem
+{
+  margin: 2px;
+  padding: 2px 8px 2px 8px;
+  list-style-type: none;
+  vertical-align: middle;
+  text-align: center;
+  float: left;
+  color: #FFFFFF;
+  background-color: #FFCC66;
+}
+
+.MyMenuItem:hover
+{
+  margin: 2px;
+  padding: 2px 8px 2px 8px;
+  list-style-type: none;
+  vertical-align: middle;
+  text-align: center;
+  float: left;
+  color: #000000;
+  background-color: #99CCFF;
+}
+
 .zip_download_link {
   display: block;
   float: right;

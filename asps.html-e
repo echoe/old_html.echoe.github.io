@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3CDTD HTML 4.01//EN">
+<html>
+<?php include("header.php"); ?>
+<!-- Main content -->
+
+<h1>Asps</h1>
+
+<p>An asp is blind: it cannot see,
+just flicks its tongue out wistfully,</p>
+<p>and tries to sniff the morning dew,
+mocking taste -  and blindness too.</p>
+<a href="AspieQuiz.pdf">I got this result on the rdos test.</a>
+</body>
+</html>

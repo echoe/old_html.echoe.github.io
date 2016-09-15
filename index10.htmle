@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>this is probably a website</title>
+        <title>Creative CSS3 Animation Menus</title>
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
@@ -54,7 +54,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="cv.html">
+                        <a href="resume.doc">
                             <span class="ca-icon">K</span>
                             <div class="ca-content">
                                 <h2 class="ca-main">CV</h2>
@@ -65,11 +65,11 @@
                 </ul>
             </div><!-- content -->
                 <div class="ca-content">
+			<hr><hr><hr>
 			<h4>About Me</h4>
 			<hr>
-			<h5>My name is Iris Felshman. This is my website. I code things.</h5>
-			<h5>It will make you say: "Wow."</h5>
-			<h5>If you have any projects you want to contact me about, please do so <a href="mailto:iris.felshman@gmail.com">here.</a></h5>
+			<h5>My name is Iris Felshman. This is my website. I code things. "Wow."</h5>
+			<h5>If you have any projects you want to contact me about, please do so here: iris.felshman@gmail.com</h5>
 			<h5>Thanks! :)</h5>
                 </div>
         </div>

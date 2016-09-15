@@ -5,9 +5,9 @@
         <meta charset="UTF-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-        <meta name="description" content="this is a website" />
+        <meta name="description" content="Creative CSS3 Animation Menus" />
         <meta name="keywords" content="menu, navigation, animation, transition, transform, rotate, css3, web design, component, icon, slide" />
-        <meta name="author" content="Codrops, with modifications by echoe" />
+        <meta name="author" content="Codrops" />
         <link rel="shortcut icon" href="../favicon.ico"> 
         <link rel="stylesheet" type="text/css" href="css/demo.css" />
         <link rel="stylesheet" type="text/css" href="css/style10.css" />
@@ -19,9 +19,9 @@
                 <ul class="ca-menu">
                     <li>
                         <a href="index.html">
-                            <span class="ca-icon">²</span>
+                            <span class="ca-icon">J</span>
                             <div class="ca-content">
-                                <h2 class="ca-main">Home</h2>
+                                <h2 class="ca-main">Index</h2>
                                 <h3 class="ca-sub">Main Page</h3>
                             </div>
                         </a>
@@ -36,7 +36,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="coding.html">
+                        <a href="https://github.com/echoe">
                             <span class="ca-icon">H</span>
                             <div class="ca-content">
                                 <h2 class="ca-main">Coding</h2>
@@ -45,33 +45,44 @@
                         </a>
                     </li>
                     <li>
-                        <a href="music.html">
-                            <span class="ca-icon">]</span>
+                        <a href="art.html">
+                            <span class="ca-icon" id="heart">N</span>
                             <div class="ca-content">
-                                <h2 class="ca-main">Music</h2>
+                                <h2 class="ca-main">Art</h2>
                                 <h3 class="ca-sub">Visual strangeness</h3>
                             </div>
                         </a>
                     </li>
                     <li>
-                        <a href="cv.html">
+                        <a href="music.html">
                             <span class="ca-icon">K</span>
                             <div class="ca-content">
-                                <h2 class="ca-main">CV</h2>
-                                <h3 class="ca-sub">My resume, in .doc format</h3>
+                                <h2 class="ca-main">Music</h2>
+                                <h3 class="ca-sub">Ear candy, or torture, your pick</h3>
                             </div>
                         </a>
                     </li>
                 </ul>
-            </div><!-- content -->
-                <div class="ca-content">
-			<h4>About Me</h4>
-			<hr>
-			<h5>My name is Iris Felshman. This is my website. I code things.</h5>
-			<h5>It will make you say: "Wow."</h5>
-			<h5>If you have any projects you want to contact me about, please do so <a href="mailto:iris.felshman@gmail.com">here.</a></h5>
-			<h5>Thanks! :)</h5>
-                </div>
+            </div>
+	    <!-- content -->
+            <div class="ca-content">
+		<h4>Music</h4><br>
+		<h5>I make music sometimes!</h5>
+		<h5>I have a <a href=“https://soundcloud.com/alltheirises”>Soundcloud page</a>.</h5>
+		<h5>Here are things I was motivated to put up here, but not soundcloud:</h5>
+		<h5><a href="Jyfypy.mp3">Jyfypy</a></h5>
+		<h5><a href="VojeTipyfu.mp3">Voje Tipyfu</a></h5>
+		<h5><a href="Tyjesiry.mp3">Tyjesiry</a>
+		<h5><a href="GyVilava.mp3">Gy Vilava</a></h5>
+		<h5><a href="TulyPutyti.mp3">Tuly Putiti</a></h5>
+		<h5><a href="Lemynoly.mp3">Lemynoly</a></h5><br>
+		<h5><a href="Lejuhe.mp3">Lejuhe</a></h5><br>
+		<h5><a href="Jyfypy2.mp3">Jyfypy2</a></h5><br>
+		<h5><a href="Bloop.mp3">Bloop</a></h5><br>
+		<br>
+		<h5>And here are longer compositions.</h5><br>
+		<h5><a href="Flight1.mp3">Flight</a></h5>
+            </div>
         </div>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
     </body>

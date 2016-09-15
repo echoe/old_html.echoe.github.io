@@ -1,0 +1,46 @@
+<! -- This is a comment that tells people what kind of document this is: -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<! -- This says that this page is HTML for reals [not in a comment!]: -->
+<html>
+<! -- You might not need this: -->
+<! -- http://stackoverflow.com/questions/5641997/ -->
+<! -- see simpleexample for proof -->
+
+<! -- This calls my menu and general style elements in header.php: -->
+<?php include("header.php"); ?>
+<! -- Note that you may need to add an .htaccess file to the site with the line -->
+<! -- AddType application/x-httpd-php .html .htm -->
+<! -- to get the PHP to work -->
+<! -- You can also have a footer if you wish (I don't) ... or anything else -->
+
+<!-- This is the main content of the site, denoted with the phrase 'Main Content': -->
+<!-- Main content -->
+<h1>ogre</h1>
+<pre>the soul, enriched,
+looks so disgusting
+
+if you want,
+we can dress up the outside
+and smile brokenly
+
+sick lies
+are normal
+so show how ugly
+your beauty
+is
+
+gap-toothed sickness
+and profane kisses
+love in death
+hormones in breath
+
+we grew up
+covered in shells
+that hardened to make
+the inside gel
+
+if you're gonna play with magic,
+boy you'd better know what you've fallen for
+<!-- This closes the html page -->
+</html>

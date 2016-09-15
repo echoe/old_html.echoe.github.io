@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3CDTD HTML 4.01//EN">
+<html>
+<?php include("header.php"); ?>
+<!-- Main content -->
+
+<h1>CV</h1>
+
+<p>I make various musical compositions, though I haven't had much of a 
+chance to make anything lately. Here are 64kbps clips of some short 
+things that I've made with Figure on my iPad - these are ripe for 
+expansion by people who aren't terribly lazy.</p>
+<a href="Jyfypy.mp3">Jyfypy</a>
+<a href="VojeTipyfu.mp3">Voje Tipyfu</a>
+<a href="Tyjesiry.mp3">Tyjesiry</a>
+<a href="GyVilava.mp3">Gy Vilava</a>
+<a href="TulyPutyti.mp3">Tuly Putiti</a>
+<a href="Lemynoly.mp3">Lemynoly</a>
+<a href="Lejuhe.mp3">Lejuhe</a>
+<a href="Jyfypy2.mp3">Jyfypy2</a>
+<a href="Bloop.mp3">Bloop</a>
+<p>And here are longer compositions.</p>
+<a href="Flight1.mp3">Flight</a>
+</p>
+</body>
+</html>

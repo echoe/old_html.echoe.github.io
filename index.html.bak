@@ -1,0 +1,27 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+<head>
+	<?php include 'header.php'; ?>
+	<title>Ponder's pondering ponder</title>
+	<link rel="stylesheet" href="ponderstyle.css">
+</head>
+
+<body>
+
+<! -- Site navigation menu -->
+<ul class="navbar">
+	<li><a href="index.html">Main</a>
+	<li><a href="asps.html">Asps</a>
+	<li><a href="nano.html">Nano</a>
+	<li><a href="misc.html">Misc</a>
+</ul>
+
+<!-- Main content -->
+<h1>A small bit of the internet devoted to thinking</h1>
+<p>Links are to the left. This will be updated with information as time passes, I think.
+
+<!-- Sign and date the page, it's only polite! -->
+<!-- http://www.w3.org/Style/Examples/011/firstcss.en.html see this -->
+
+</body>
+</html>

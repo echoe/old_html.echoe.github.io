@@ -54,7 +54,7 @@
                         </a>
                     </li>
                     <li>
-                        <a href="cv.html">
+                        <a href="resume.doc">
                             <span class="ca-icon">K</span>
                             <div class="ca-content">
                                 <h2 class="ca-main">CV</h2>
@@ -67,8 +67,7 @@
                 <div class="ca-content">
 			<h4>About Me</h4>
 			<hr>
-			<h5>My name is Iris Felshman. This is my website. I code things.</h5>
-			<h5>It will make you say: "Wow."</h5>
+			<h5>My name is Iris Felshman. This is my website. I code things. "Wow."</h5>
 			<h5>If you have any projects you want to contact me about, please do so <a href="mailto:iris.felshman@gmail.com">here.</a></h5>
 			<h5>Thanks! :)</h5>
                 </div>

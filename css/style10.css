@@ -22,7 +22,6 @@
     float:left;
     background: #fff;
     margin-left:-48px;
-    transition: all 400ms linear;
 }
 .ca-menu li:last-child{
     margin-right: 0px;
@@ -46,7 +45,6 @@
     left: 0px;
     top: 30px;
     text-align: center;
-    transition: all 400ms linear;
 }
 .ca-main{
     font-size: 24px;
@@ -66,7 +64,6 @@
 .ca-menu li:hover{
     border-color: #333;
     z-index: 999;
-    transform: scale(1.1);
 }
 .ca-menu li:hover .ca-icon{
     color: #000;
@@ -75,35 +72,4 @@
 }
 .ca-menu li:hover .ca-main{
     color: #000;
-}
-
-@-webkit-keyframes moveFromBottom {
-    from {
-        -webkit-transform: translateY(200%) scale(0.5);
-        opacity: 0;
-    }
-    to {
-        -webkit-transform: translateY(0%) scale(1);
-        opacity: 1;        
-    }
-}
-@-moz-keyframes moveFromBottom {
-    from {
-        -moz-transform: translateY(200%) scale(0.5);
-        opacity: 0;
-    }
-    to {
-        -moz-transform: translateY(0%) scale(1);
-        opacity: 1;        
-    }
-}
-@-ms-keyframes moveFromBottom {
-    from {
-        -ms-transform: translateY(200%) scale(0.5);
-        opacity: 0;
-    }
-    to {
-        -ms-transform: translateY(0%) scale(1);
-        opacity: 1;        
-    }
 }

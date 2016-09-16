@@ -7,12 +7,12 @@ Website: http://github.echoe.com
 Github: https://github.com/echoe
 Experience[a][b][c][d][e][f][g]
 October 2012 - PRESENT
-WiredTree, Chicago│Linux Sysadmin, Level 3
-At this job, I am one of the people answering support tickets for our 5000+ servers. I was hired as a Linux neophyte,, but have been able to expand my knowledge over time to a point where I can do my job more than adequately (as the senior admin on shift) and guide others. My current duties include:
+WiredTree, Chicago│Linux Systems Administrator, Level 3
+At this job, I am one of the people answering support tickets opened for our 5000+ servers. I was hired as a Linux neophyte, but have been able to expand my knowledge over time to a point where I have been the senior administrator on shift for over a year now - I help and guide others, as well as make changes myself. My current duties include:
 * Answering a variety of helpdesk queries in a timely fashion and resolving server configuration issues - Apache, MySQL, Exim, Bind, cPanel on CentOS 5/6/7 servers
 * Building and fixing physical customer servers and troubleshooting physical hardware issues, including resolving RAID problems (Software and Adaptec/LSI/Acera RAID cards), swapping parts, reimaging disks, troubleshooting obscure boot issues, etc.
 * Fixing a wide variety of software problems in bash, PHP, Python, and a world of different internal configurations (Magento/WordPress/Joomla/etc., Redis/Memcached/etc.)
-* Writing a number of small scripts and how-to guides for our internal documentation to improve our methods: these are on my website and github
+* Writing a number of small scripts and how-to guides for our internal documentation to improve our methods: these are on my website and github, listed above.
 * Assisting colleagues with queries and guiding them to (and sometimes through) correct solutions
 May 2010 - May  2011
 Barbara’s Bookstores, Chicago │Bookseller
@@ -20,10 +20,10 @@ At this job, I was responsible for selling books to clients by making suggestion
 Education
 May 2012 - August 2012
 The Learning House│ TEFL Certificate for Teaching English as a Foreign Language
-I earned this certificate in order to expand the ability to talk to groups and explore the world. Many of these skills continue to assist me in my current day to day life.
+I earned this certificate in order to expand my ability to talk to groups and explore the world - I started it being completely unable to give a presentation, and ended up passing the class! This helped me in my pursuit of a number of soft skills - talking to groups and teaching - that I continue honing to this day.
 January 2010 - May 2012
 University of Illinois at Chicago│ Bachelor of Arts in Liberal Arts and Sciences
-I earned a bachelor’s degree in English with a concentration in British Literature, though I could have gotten it in any concentration. Studied math and computer science as well.
+I earned a bachelor’s degree in English with a concentration in British Literature. I also completed a number of math and computer science classes before deciding that English better fit my life goals at the time.
 Skills
 
 
@@ -34,7 +34,7 @@ Languages: Bash, Python, PHP
 Hobbies
 
 
-Outside of work I keep busy by playing guitar/piano and singing, purchasing and configuring various electronics, reading a lot of books, and writing - mainly poetry, but some fiction and essays[h][i][j][k]. For tech-related things, I also have a personal server which I have ZNC running on within a docker container, as well as a few other docker containers that I spin up/down for testing purposes (httpd and PHP7, nginx, etc).
+Outside of work I keep busy by playing music, purchasing and configuring various electronics, reading a lot of books, and writing - mainly poetry, but some fiction and essays[h][i][j][k]. I also have a personal server which I have ZNC running on within a docker container, as well as a few other docker containers that I spin up/down for testing purposes (httpd and PHP7, nginx, etc).
 
 
 [a]This section could be considered a bit short. Did you do any volunteer work as well? You might be able to put that under this header as well.

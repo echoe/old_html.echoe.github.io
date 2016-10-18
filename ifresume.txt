@@ -3,9 +3,11 @@
 
 Phone: (773) 988-4117
 Email: iris.felshman@gmail.com
-Website: https://github.echoe.com
+Website: https://echoe.github.io
 Github: https://github.com/echoe
-Experience[a][b][c][d][e][f][g]
+
+
+--Experience--
 October 2012 - PRESENT
 WiredTree, Chicago│Linux Systems Administrator, Level 3
 At this job, I am one of the people answering support tickets opened for our 5000+ servers. I was hired as a Linux neophyte, but have been able to expand my knowledge over time to a point where I have been the senior administrator on shift for over a year now - I help and guide others, as well as make changes myself. My current duties include:
@@ -14,39 +16,28 @@ At this job, I am one of the people answering support tickets opened for our 500
 * Fixing a wide variety of software problems in bash, PHP, Python, and a world of different internal configurations (Magento/WordPress/Joomla/etc., Redis/Memcached/etc.)
 * Writing a number of small scripts and how-to guides for our internal documentation to improve our methods: these are on my website and github, listed above.
 * Assisting colleagues with queries and guiding them to (and sometimes through) correct solutions
-May 2010 - May  2011
+
+May 2010 - May 2011
 Barbara’s Bookstores, Chicago │Bookseller
 At this job, I was responsible for selling books to clients by making suggestions and engaging in discourse about books. I was also maintaining the store - dusting, facing books, disseminating new stock, etc.
-Education
+
+
+--Education--
 May 2012 - August 2012
 The Learning House│ TEFL Certificate for Teaching English as a Foreign Language
 I earned this certificate in order to expand my ability to talk to groups and explore the world - I started it being completely unable to give a presentation, and ended up passing the class! This helped me in my pursuit of a number of soft skills - talking to groups and teaching - that I continue honing to this day.
+
 January 2010 - May 2012
 University of Illinois at Chicago│ Bachelor of Arts in Liberal Arts and Sciences
 I earned a bachelor’s degree in English with a concentration in British Literature. I also completed a number of math and computer science classes before deciding that English better fit my life goals at the time.
-Skills
 
 
+--Skills--
 Systems: Linux (CentOS)
 Services: Apache, Memcache(d), Zend Opcache, APC, BIND, OpenSSH, CSF, Nagios
 Tools: git, cPanel, r1soft, Confluence, Jira
 Languages: Bash, Python, PHP
-Hobbies
 
 
-Outside of work I keep busy by playing music, purchasing and configuring various electronics, reading a lot of books, and writing - mainly poetry, but some fiction and essays[h][i][j][k]. I also have a personal server which I have ZNC running on within a docker container, as well as a few other docker containers that I spin up/down for testing purposes (httpd and PHP7, nginx, etc).
-
-
-[a]This section could be considered a bit short. Did you do any volunteer work as well? You might be able to put that under this header as well.
-[b]Not really? This is my relevant experience. I also was a tutor [of one person! Yeah! I helped them get through statistics] and sold books at the airport, but I don't have any volunteer work as of now. In the future I do want to start helping at open source projects. maybe I should start doing that now? but how does one ever have time?!?
-[c]Hmmm. Try putting that as well, I'm just worried about having only one thing listed here.
-[d]Those things are not terribly relevant :/ I'll see if there's something I can add, I know I'll have some open source commits in the next months as well.
-[e]I added the thing? ... idk. I think it looks weird @.@
-[f]Hmmm. I think it looks good, but I would ask someone else maybe? For a second opinion. I was always taught that even two disparate experiences sections is better than one.
-[g]Maybe the open source stuff would be better tho. Maybe use this for now and then change it when you do the thing.
-[h]Additional comments: 
-- you alternate between speaking in the third and first person in this resume. Most people would say to only use third person, but I think first is okay, just make it consistent
-- Do not use periods after bullets
-[i]Yeah, I go into first person for 'hobbies' and whenever things refer to me directly. I guess I could use third person, but a sentence like 'Outside of work, Iris keeps busy doing stuff or whatever.' as written by me about me seems weird to me?
-[j]Hmmm. I misspoke. I didn't mean to say third person, I moreso meant you seem to alternate between avoiding using "I" and using it in the course of the resume. You should either make it all personal or use the more disconnected tone throughout. Both are okay, but consistency is more key. Gaaaah. I might not have explained it right still. Let me know how you feel.
-[k]hm. I think that I slipped into the more personal tone when writing about myself? Do you think I should just use the more personal tone everywhere? I was just changing it to be more disconnected but it seems ... lifeless like that.
+--Hobbies--
+Outside of work I keep busy by playing music, purchasing and configuring various electronics, reading a lot of books, and writing - mainly poetry, but some fiction and essays. I also have a personal server which I have ZNC running on within a docker container, as well as a few other docker containers that I spin up/down for testing purposes (httpd and PHP7, nginx, etc).
